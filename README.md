@@ -38,19 +38,6 @@ A user-friendly and secure **Role-Based Access Control (RBAC)** admin dashboard 
 
 ---
 
-## **Screenshots**
-
-### Dashboard
-![RBAC Dashboard](https://via.placeholder.com/1024x600.png?text=RBAC+Dashboard)
-
-### User Management
-![User Management](https://via.placeholder.com/1024x600.png?text=User+Management)
-
-### Role Management
-![Role Management](https://via.placeholder.com/1024x600.png?text=Role+Management)
-
----
-
 ## **Installation**
 
 ### 1. Clone the Repository
@@ -164,6 +151,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## **Contributors**
 
-- [Your Name](https://github.com/<username>) - Project Creator
+- [Sai2k4](https://github.com/<username>) - Project Creator
 
 Feel free to open an issue or submit a pull request to contribute to the project!
